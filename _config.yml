@@ -1,4 +1,4 @@
-# Version of the Icarus theme that is currently used
+﻿# Version of the Icarus theme that is currently used
 version: 2.6.0
 # Path or URL to the website's icon
 favicon: /images/favicon.svg
@@ -73,7 +73,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: utteranc
+    type: utterances
     repo: HyeonGuJ/hyeonguj.github.io
 
 
