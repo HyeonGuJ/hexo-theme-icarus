@@ -124,12 +124,12 @@ widgets:
         # Whether to show avatar image rounded or square
         avatar_rounded: false
         # Path or URL for the follow button
-        follow_link: 'https://github.com/ppoffice'
+        follow_link: 'https://github.com/HyeonGuJ'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/HyeonGuJ'
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
