@@ -1,4 +1,4 @@
-﻿# Version of the Icarus theme that is currently used
+# Version of the Icarus theme that is currently used
 version: 2.6.0
 # Path or URL to the website's icon
 favicon: /images/favicon.svg
@@ -118,7 +118,7 @@ widgets:
         # Author's current location to be shown in the profile widget
         location: Korea
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: https://horadeaventurapalooza.files.wordpress.com/2014/10/20130810063007bmo.gif
+        avatar: /images/bmo-resized.gif
         # Email address for the Gravatar to be shown in the profile widget
         gravatar:
         # Whether to show avatar image rounded or square
